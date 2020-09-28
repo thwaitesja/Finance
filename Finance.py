@@ -1,0 +1,3 @@
+import numpy_financial as fin
+
+print(fin.pv(0.1,3,0,100))      # pv of one...
